@@ -5,7 +5,7 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 🌱 I’m currently learning ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![React](https://iconos8.es/icon/asWSSTBrDlTW/react-a-javascript-library-for-building-user-interfaces/30/)
-![NodeJS](https://img.icons8.com/color/30/nodejs.png)![React](https://img.icons8.com/color/30/react.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)![REACT](https://img.icons8.com/color/30/react.png)
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: mirgeserranodev@gmail.com
    
