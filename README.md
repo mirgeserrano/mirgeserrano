@@ -4,7 +4,7 @@
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- 🌱 I’m currently learning ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![React](https://github.com/mirgeserrano/mirgeserrano/assets/41913646/d0d99f8d-8ec5-4798-9873-11c1e2388fb7)
+- 🌱 I’m currently learning ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![React](https://iconos8.es/icon/asWSSTBrDlTW/react-a-javascript-library-for-building-user-interfaces)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 - 💬 Ask me about anything an everything.
 - 💬 Ask me about anything and everything.
