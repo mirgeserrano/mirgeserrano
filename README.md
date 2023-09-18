@@ -8,5 +8,5 @@
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 - 💬 Ask me about anything an everything.
 - 💬 Ask me about anything and everything.
-- 📫 How to reach me: mirgeserranodiv@gmail.com
+- 📫 How to reach me: mirgeserranodev@gmail.com
    
