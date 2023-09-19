@@ -9,3 +9,4 @@
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: mirgeserranodev@gmail.com
    
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
