@@ -42,8 +42,8 @@ Welcome to my GitHub! Nice to meet you. 😊
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias o encuentras algún error, no dudes en abrir un _issue_ o enviar un _pull request_.
 
 ## Contacto 📧
-- **Email:** [tu-email@example.com](mailto:tu-email@example.com)
-- **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
+- **Email:** (mirgeserranodev@gmail.com)
+- **linkedin** [@mirgelyserrano]([https://twitter.com/tuusuario](https://www.linkedin.com/in/mirgelys-serrano-b232a4106/))
 
 ---
-**Creado por [Mirgelys](https://github.com/mirgeserrano) © 2024**
+**Made in [Mirgelys](https://github.com/mirgeserrano) © 2024**
