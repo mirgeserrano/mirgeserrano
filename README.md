@@ -9,19 +9,5 @@
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: mirgeserranodev@gmail.com
    
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-## Características
-- **Tarjeta de estadísticas de GitHub**
-- **GitHub Extra Pins**
-- **Tarjeta de lenguajes más usados**
-- **Tarjeta de estadísticas WakaTime**
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mirgeserrano&show_icons=true&theme=radical&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=151515&hide_border=true)
