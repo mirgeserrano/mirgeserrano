@@ -20,3 +20,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+## Características
+- **Tarjeta de estadísticas de GitHub**
+- **GitHub Extra Pins**
+- **Tarjeta de lenguajes más usados**
+- **Tarjeta de estadísticas WakaTime**
