@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! Nice to meet you. 😊
 
-- 🌱 I’m currently learning [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs)](https://skills.thijs.gg)
+- 🌱 I’m currently learning ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![SASS](https://img.icons8.com/color/30/sass.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: mirgeserranodev@gmail.com
    
@@ -14,6 +14,8 @@ Welcome to my GitHub! Nice to meet you. 😊
 
 
 ## Contact 📧
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirgelys-serrano-b232a4106/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mirgeserranodev@gmail.com)
 - **Email:** (mirgeserranodev@gmail.com)
 - **linkedin** [@mirgelyserrano](https://www.linkedin.com/in/mirgelys-serrano-b232a4106/)
 
