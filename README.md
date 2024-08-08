@@ -24,7 +24,7 @@ Welcome to my GitHub! Nice to meet you. 😊
 
 ## Demostración
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=151515&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mirgeserrano&show_icons=true&theme=radical&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=151515&hide_border=true)
 
 ## Comparación de Características
 
@@ -44,4 +44,4 @@ Welcome to my GitHub! Nice to meet you. 😊
 - **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
 
 ---
-**Creado por [Tu Nombre](https://github.com/tuusuario) © 2024**
+**Creado por [Mirgelys](https://github.com/mirgeserrano) © 2024**
