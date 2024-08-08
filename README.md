@@ -8,14 +8,12 @@ Welcome to my GitHub! Nice to meet you. 😊
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: mirgeserranodev@gmail.com
    
-
-
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mirgeserrano&show_icons=true&theme=radical&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=151515&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirgeserrano&show_icons=true&theme=radical&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=151515&hide_border=true))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirgeserrano&show_icons=true&theme=radical&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=151515&hide_border=true)
 
 
-## Contacto 📧
+## Contact 📧
 - **Email:** (mirgeserranodev@gmail.com)
 - **linkedin** [@mirgelyserrano](https://www.linkedin.com/in/mirgelys-serrano-b232a4106/)
 
