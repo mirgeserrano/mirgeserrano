@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! Nice to meet you. 😊
 
-- 🌱 I’m currently learning ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![SASS](https://img.icons8.com/color/30/sass.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)
+- 🌱 I’m currently learning ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![SASS](https://img.icons8.com/color/30/sass.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![React](https://img.icons8.com/color/30/react.png)
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: mirgeserranodev@gmail.com
    
