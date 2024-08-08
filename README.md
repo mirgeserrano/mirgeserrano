@@ -10,7 +10,7 @@
 - 📫 How to reach me: mirgeserranodev@gmail.com
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mirgeserrano=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mirgeserrano=anuraghazra&hide=javascript,html)
 
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
