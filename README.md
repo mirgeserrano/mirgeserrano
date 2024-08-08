@@ -9,7 +9,7 @@
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: mirgeserranodev@gmail.com
    
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mirgeserrano=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
 
 
