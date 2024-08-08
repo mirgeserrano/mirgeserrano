@@ -24,7 +24,9 @@ Welcome to my GitHub! Nice to meet you. 😊
 
 ## Demostración
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mirgeserrano&show_icons=true&theme=radical&title_color=ff69b4&text_color=9f9f9f&icon_color=ff69b4&bg_color=151515&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirgeserrano&hide_progress=true)
+
+
 
 ## Comparación de Características
 
