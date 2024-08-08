@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! Nice to meet you. 😊
 
-- 🌱 I’m currently learning [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs)](https://skills.thijs.gg))
+- 🌱 I’m currently learning [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs)](https://skills.thijs.gg)
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: mirgeserranodev@gmail.com
    
@@ -17,7 +17,7 @@ Welcome to my GitHub! Nice to meet you. 😊
 
 ## Contacto 📧
 - **Email:** (mirgeserranodev@gmail.com)
-- **linkedin** [@mirgelyserrano](![https://twitter.com/tuusuario](https://www.linkedin.com/in/mirgelys-serrano-b232a4106/))
+- **linkedin** [@mirgelyserrano](https://www.linkedin.com/in/mirgelys-serrano-b232a4106/)
 
 ---
 **Made in [Mirgelys](https://github.com/mirgeserrano) © 2024**
