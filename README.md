@@ -1,5 +1,5 @@
-#  🌟 Hi, My Name is Mirgelys (but you can call me Mirge)
 ![Mi Imagen](https://media.licdn.com/dms/image/v2/D4E16AQF4jnVUS0H2Wg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723162112713?e=1728518400&v=beta&t=dwURtGSu10z3knanoydlldQDLKao_JvU_NUgqBGH-A8)
+#  🌟 Hi, My Name is Mirgelys (but you can call me Mirge)
 
 ![Descripción Alternativa](https://camo.githubusercontent.com/5b23627de88fa1da170ee60d4f9f23e49aae8f5dc6cf5295f8759ee7fb871e7a/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966)
 
